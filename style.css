@@ -169,7 +169,8 @@ body {
     position: absolute;
     left: 50%;
     top:50%;
-    transform: translate(-50%, -50%)
+    transform: translate(-50%, -50%);
+    
 }
 .buttons p {
     color: red;
@@ -177,4 +178,5 @@ body {
     position: absolute;
     left: 45%;
     top: 100%;
+    padding-top: 5px;
 }
